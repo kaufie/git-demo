@@ -14,3 +14,8 @@ my first git application
 
 # in between changes 
 same process repeated
+
+#shortcut
+
+git commit -a
+
