@@ -10,3 +10,7 @@ my first git application
 --> git add FILENAME --- to add files to staging area
 
 --> git commit -m "message" -- to commit files
+
+
+# in between changes 
+same process repeated
